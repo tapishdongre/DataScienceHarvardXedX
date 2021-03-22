@@ -21,3 +21,14 @@ Data Science: Linear Regression
 Data Science: Machine Learning
 
 Data Science: Capstone
+
+
+IMPORTANT LINKS:
+Course Textbook
+There is a free textbook available for this course series.
+
+You can get a PDF version of the textbook on Leanpub https://leanpub.com/datasciencebook
+
+or follow links within the course to the HTML version of the textbook. https://rafalab.github.io/dsbook/
+
+You can also download the R markdown files for the textbook to run on your own machine at Professor Irizarry's GitHub repository https://github.com/rafalab/dsbook
